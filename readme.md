@@ -9,7 +9,7 @@
 ## Client1.py
 Note: I created 2 clients, each client has different data
 
-### import dependencies
+import dependencies
 ```python=
 import numpy as np
 import pandas as pd
@@ -18,7 +18,7 @@ import tensorflow as tf
 import flwr as fl   # Flower library for Federated Learning
 ```
 
-### Define columns based on features and target
+Define columns based on features and target
 ```python=
 # Define your columns based on features and target
 features = ["height", "weight", "BMI", "FSR1", "FSR2", "FSR3", "FSR4", "FSR5", "FSR6", "FSR7", "FSR8", "FSR9"]
