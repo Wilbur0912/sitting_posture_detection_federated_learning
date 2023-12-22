@@ -1,7 +1,7 @@
 # Federated Learning Note
 ---
 ## How it operates?
-![image](https://hackmd.io/_uploads/Bk_DjszwT.png)
+![image](https://github.com/Wilbur0912/sitting_posture_detection_federated_learning/assets/89004015/2709ebb6-d456-4f8a-8fe0-1613fe08efd7)
 
 
 ---
@@ -120,8 +120,7 @@ fl.server.start_server(
 ```
 ---
 ## Test Result
-![image](https://hackmd.io/_uploads/ByaNIdMPa.png)
-
+![image](https://github.com/Wilbur0912/sitting_posture_detection_federated_learning/assets/89004015/dced0b1e-2422-453a-a557-90e17101295d)
 ### losses
 ```
 app_fit: losses_distributed [(1, 2.003454980511426), (2, 1.541882242521938), (3, 1.3554413757951285), (4, 1.4613317687699414), (5, 1.4867502408519495), (6, 1.481644267558903), (7, 1.2023357226344127), (8, 1.3388771874765697), (9, 1.3960736465290648), (10, 0.928022098325799)]
