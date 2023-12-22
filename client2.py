@@ -5,8 +5,8 @@ import tensorflow as tf
 import flwr as fl   # Flower library for Federated Learning
 
 # Define your columns based on features and target
-features = ["身高", "體重", "BMI", "壓力感測1", "壓力感測2", "壓力感測3", "壓力感測4", "壓力感測5", "壓力感測6", "壓力感測7", "壓力感測8", "壓力感測9"]
-target = "坐姿"
+features = ["height", "weight", "BMI", "FSR1", "FSR2", "FSR3", "FSR4", "FSR5", "FSR6", "FSR7", "FSR8", "FSR9"]
+target = "posture"
 column_names = [target] + features  # Target is the first column
 
 # Load your training and validation data
