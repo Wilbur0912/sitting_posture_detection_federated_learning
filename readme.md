@@ -7,7 +7,6 @@
 
 ---
 ## Client1.py
-Note: I created 2 clients, each client has different data
 
 import dependencies
 ```python=
