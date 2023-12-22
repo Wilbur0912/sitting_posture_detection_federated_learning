@@ -1,7 +1,8 @@
 # Federated Learning Note
 ---
 ## How it operates?
-![image](https://github.com/Wilbur0912/sitting_posture_detection_federated_learning/assets/89004015/2709ebb6-d456-4f8a-8fe0-1613fe08efd7)
+![image](https://github.com/Wilbur0912/sitting_posture_detection_federated_learning/assets/89004015/e3da12fe-f692-49ca-b946-421479a3b9f9)
+
 
 
 ---
